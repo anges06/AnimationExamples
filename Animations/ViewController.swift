@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  TestApp
+//  AnimationExamples
 //
 //  Created by anges on 09.02.19.
 //  Copyright © 2019 anges. All rights reserved.
